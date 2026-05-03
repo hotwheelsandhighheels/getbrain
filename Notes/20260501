@@ -1,0 +1,64 @@
+	⁃	I decided it might be best practice to write some notes down. I am two days into my journey with git and trying to build my own website, and unfortunately, I made a mistake and ended up deleting something like 60k files from my hard drive. Luckily, I have an external hard drive with my important stuff like pictures and writings, but newer documents like pdfs that I had recently annotated got deleted. I am going to attempt to get those back at some point. 
+	⁃	I downloaded so much software. I had to get git updated, so I went through home-brew to update git, then I was using visual code studio but it wasn’t doing what I wanted so I deleted it and started following a new guide from Jekyll, and thats where things went wrong. 
+	⁃	To use Jekyll I had to do some downloads and updates to Ruby, Gem, and Jekyll. I have the most updated versions, I triple checked on that. I got as far as creating a directory/repository on my computer that connects to a static site. 
+	⁃	I was trying to check the index code on terminal but I wasn’t figuring it out so I decided to downloaded GitHub for desktop and thats where things fucked up. 
+	⁃	I connected my GitHub account and it asked permissions to access my disk. I thought that meant just access it not copy it in its entirety. I packed and trying to reverse by deleting. Wrong move. I ended up permanently deleting it. It went to my trash bin, which is a good safeguard to know about. I didn’t know about it. I didn’t think they went to my trash can, I thought they were being deleted from the repository only. Needless to say, I emptied trash bin and then realized all 60k items were being deleted. I panicked. 
+	⁃	I downloaded another software that tells me which files got deleted. So I know which ones they are at least. Im going to leave it alone for now and slow down and pay extra attention now. Lol lesson learned. 
+	⁃	After all my readings about archives (which ironically was included in what was deleted along with my annotations), I have less of an attachment to ephemera. 
+	⁃	This is also a way of me creating an archive and messing with archival theory through my website/creative work. We’ll see where this goes :) 
+
+Okay, retracing my steps.
+I have on my laptop: 
+
+Git version 2.38.5 (Apple Git-154)
+Ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin24)
+Gem 3.0.3.1
+
+Okay it’s telling me it can’t find Jekyll. This might’ve been part of what was deleted. There was a gem file created in the disk drive. 
+
+
+The files are still there? Why did it delete everything but these files? That doesn’t make sense. 
+
+As of now, my directory still exists in Macintosh/users/hotwheelsandhighheels/myblog
+
+Okay well it’s saying it cannot locate the gem file
+
+Wait I think it’s only the Jekyll bundler that got deleted, it located the gem file but cannot open it. Going to redo steps to install Jekyll
+
+INSTALLING JEKYLL BUNDLER 
+Loading... ? I think. Nothing is happening. 
+Rerunning command 
+
+Ugh this is so annoying. It’s saying I have no permissions. Did I delete permissions somehow? What the actual fuck 😭 
+
+Somehow my files seem to still be in my disk drive but why is my computer suddenly having trouble accessing them. What permissions do I need? I like do not want to start over. 
+
+Okay I figured out that home-brew was not active, now it’s active. i made sure ruby and chruby was installed, but now it’s saying not executable. 
+
+Homebrew is installed. Shrubby is installed. 
+Chruby 0.3.9 and Ruby 4.0.3 (2026-04-21 revision 85ddef263a) +PRISM [arm64-darwin24]
+
+Installed Jekyll using gem install Jekyll
+
+I forgot to add bundler to the end of that. Did that now. Everything is running fine but it’s not publishing it to the site. Which is weird. It was working yesterday. 
+
+I could delete it and start over. I’ve been doing that a lot. I don’t think I should keep doing that lmao thats how I ended up deleting things. 
+
+Okay I moved the files to trash and am starting over at new blog. 
+
+I am following along to a YouTube video and I redownloaded VCS editor. I’m still not sure what is happening but whatever. It keeps giving me this message: .rubies/ruby-3.4.1/bin/ruby not executable and idk how to fix it.
+
+But ok. I got the new site running. I checked it with bundle exec Jekyll serve 
+
+This .rubies/ruby-3.4.1/bin/ruby not executable is annoying me. It’s also annoying me that it’s saying this [DEPRECATED] Platform :mingw, :x64_mingw, :mswin will be removed in the future. Please use platform :windows instead.
+
+Im following the video and so far it looks good. VCS just keeps giving me weird warnings and error messages. 
+
+It is still giving me weird errors and I keep trying to start over cause im not even sure where it went wrong. But I’m done for rn
+
+It is now almost 8pm and I have been at it for the past at least 7 hours. 
+I figured out exactly what happened last night. 
+
+Because it copied my drive as a repository and then I tried to undo that by 'deleting' the repository, it essentially deleted the original of everything i copied. supposedly i can undo this because it's a git command or whatever, thats what version control is supposed to be, but idk. idk wtf is going on lmao
+
+I'm leaving it alone for now. Putting my notes in here so I don't lose them. 
