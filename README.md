@@ -1,5 +1,6 @@
 <center> 
 
+
 #### Welcome to 
 ### Hot Wheels & High Heels 
 
@@ -20,4 +21,7 @@ a dreamy place of palm trees & perfect sun
 [Angela Mendoza](/Drivers/Angela)  
 [Jack Hinzo](/Drivers/Jack)   
 [a.benet](/Drivers/a.benet)  
-[Sam Yaziji](/Drivers/a.benet)  
+[Sam Yaziji](/Drivers/Sam)  
+
+### RIP My 2000 Toyota 4runner ❤️‍🔥
+you were the _hottest_ salvage on these sunny roads 
