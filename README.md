@@ -15,9 +15,9 @@ a dreamy place of palm trees & perfect sun
 
 ### Interviews
 
-[Jon Tobias](/poetry/website/drivers/Jon.md)  
-[Alana Rodriguez](/Poetry/Website/Drivers/Alana.md)  
-[Angela Mendoza](/Poetry/Website/Drivers/Angela)  
-[Jack Hinzo](/Poetry/Website/Drivers/Jack)   
-[a.benet](/Poetry/Website/Drivers/a.benet)  
-[Sam Yaziji](poetry/Website/Drivers/a.benet)  
+[Jon Tobias](/Drivers/Jon.md)  
+[Alana Rodriguez](/Drivers/Alana.md)  
+[Angela Mendoza](/Drivers/Angela)  
+[Jack Hinzo](/Drivers/Jack)   
+[a.benet](/Drivers/a.benet)  
+[Sam Yaziji](/Drivers/a.benet)  
