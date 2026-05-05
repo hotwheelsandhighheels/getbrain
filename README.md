@@ -4,7 +4,7 @@
 
 <center> The speed limit is 140mph but some cars go faster than that!<br>
 <center> Watch out, you might catch a <i>flash</i> </center>  
-<br><br<center> These writers are brought to you from the Mediterranean center of Southern California,   </center>
+<br><br><center> These writers are brought to you from the Mediterranean center of Southern California,   </center>
 <center> where the Pacific meets the West Coast  </center>
 <center> a dreamy place of palm trees & perfect sun </center>
 <br>
