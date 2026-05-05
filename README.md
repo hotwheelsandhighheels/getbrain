@@ -19,10 +19,10 @@ a dreamy place of palm trees & perfect sun
 
 [Jon Tobias](/Drivers/Jon.md)  
 [Alana Rodriguez](/Drivers/Alana.md)  
-[Angela Mendoza](/Drivers/Angela)  
-[Jack Hinzo](/Drivers/Jack)   
-[a.benet](/Drivers/a.benet)  
-[Sam Yaziji](/Drivers/Sam)  
+[Angela Mendoza](/Drivers/Angela.md)  
+[Jack Hinzo](/Drivers/Jack.md)   
+[a.benet](/Drivers/abenet.md)  
+[Sam Yaziji](/Drivers/Sam.md)  
 
 ### RIP My 2000 Toyota 4runner ❤️‍🔥
 you were the _hottest_ salvage on these sunny roads 
