@@ -20,4 +20,4 @@
 <br>
 <br>
 <h6>RIP My 2000 Toyota 4runner ❤️‍🔥<h6>
-you were the <i>>hottest</i> salvage on these sunny roads 
+you were the <i>hottest</i> salvage on these sunny roads 
