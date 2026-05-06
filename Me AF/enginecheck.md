@@ -12,11 +12,11 @@ University of California, Riverside
 
 ### Practice
 
-Publications Editor, '24-'25  
-Poetry International Online
-
 Poetry Club Advisor, '23-'25   
 IMIN Program, Morse High School – San Diego, CA
+
+Publications Editor, '24-'25  
+Poetry International Online
 
 Report Writer, '23
 The SAGE Project – San Diego, CA  
@@ -30,15 +30,11 @@ MFA Program, San Diego State University
 
 ### Execution
 
-Editor & Founder
-
+Editor & Founder 
 Hot Wheels & High Heels – San Diego, CA
 
-Poetry Club Coordinator
-
+Poetry Club Coordinator 
 Poetry Club at Morse High School – San Diego, CA
-
-Fall 2023 – Present
 
 ### Publications
 
