@@ -1,7 +1,5 @@
 # Jon Tobias
-<!DOCTYPE markdown>
-
-![Photo by Kimberly Tobias](/Images/Jon_Profile.jpg "Photo by Kimberly Tobias") 
+![Photo by Kimberly Tobias](/assets/Images/Jon_Profile.jpg "Photo by Kimberly Tobias") 
 
 Jon Tobias is an MFA student at San Diego State University. He is the author of the chapbook, **Talking to Ghosts**, published by _Quillkeepers Press_. His poems have appeared in anthologies and online with _Quillkeepers Press_, _Zone 3_, _White Stag Publishing_, and _Kindabummed Magazine_. His short fiction has appeared online and in print by _A Word With You Press_.
 

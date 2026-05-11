@@ -1,6 +1,6 @@
 # Alana Rodriguez
 
-![Self Portrait](/Images/Alana_Profile.jpeg "Self Portrait") 
+![Self Portrait](/assets/Images/Alana_Profile.jpeg "Self Portrait") 
 
 Alana Rodriguez is an MFA Poetry student from Chula Vista, CA. She is the Social Media & Marketing Coordinator for the _San Diego Poetry Annual_ and an intern for _Poetry International_. Find her work in _Boats Against the Current_, _Unfortunately_, _Lit Mag_, and forthcoming in _Zone 3_. Alana is passionate about encouraging young poets in both the Latinx and LGBTQ+ communities to pursue publication and share their work with the world.
 

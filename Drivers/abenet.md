@@ -1,6 +1,6 @@
 # a.benet
 
-![Self Portrait](/Images/A-benet_Profile.JPG.png "Self Portrait") 
+![Self Portrait](/assets/Images/A-benet_Profile.JPG.png "Self Portrait") 
 
 a. benét is Black poet and creative. She is a San Diego, California native, where she is a first year Master’s student and _Prebys Creative Writing_ scholar at San Diego State University studying poetry. Her poetry has appeared or is forthcoming in _LETTERS Journal_, _Foglifter Press_, _Honey Literary_, _Diode Poetry_, and others. She has been nominated for _Best of the Net_, and was the 1st place winner of the _2020 Grossmont College Slam Poetry Competition_.
 
