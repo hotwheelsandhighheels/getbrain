@@ -1,10 +1,10 @@
-# a.benet
+# a.benét
 
 ![Self Portrait](/assets/Images/A-benet_Profile.JPG.png "Self Portrait") 
 
 a. benét is Black poet and creative. She is a San Diego, California native, where she is a first year Master’s student and _Prebys Creative Writing_ scholar at San Diego State University studying poetry. Her poetry has appeared or is forthcoming in _LETTERS Journal_, _Foglifter Press_, _Honey Literary_, _Diode Poetry_, and others. She has been nominated for _Best of the Net_, and was the 1st place winner of the _2020 Grossmont College Slam Poetry Competition_.
 
-_Connect with [a.benet](https://sites.google.com/view/benetthewriter/home)_  
+_Connect with [a.benét](https://sites.google.com/view/benetthewriter/home)_  
 on [Instagram](instagram.com/jackhinzo) and [BlueSky](https://bsky.app/profile/benetthewriter.bsky.social)
 
 ---
