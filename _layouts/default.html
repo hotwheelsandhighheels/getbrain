@@ -1,6 +1,6 @@
-<!doctype html>
-<html>
-  <head>
+<!doctype html><!-- defines document type -->
+<html lang="en-US">
+  <head><!-- the head includes all meta data -->
     <meta charset="UTF-8">
     <meta http-equiv="" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,8 +9,10 @@
     {% feed_meta %}
     {% seo %}
   </head>
-  <body>
+  <body> <!-- this is the container for all visible content -->
+    {% include header.html %}
     {% include navigation.html %}
     {{ content }}
+    {% include footer.html %}
   </body>
 </html>
