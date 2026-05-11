@@ -1,6 +1,5 @@
 ---
 layout: post
-title: a.benét
 ---
 
 # a.benét
