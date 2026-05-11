@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Jon Tobias
 ![Photo by Kimberly Tobias](/assets/Images/Jon_Profile.jpg "Photo by Kimberly Tobias") 
 

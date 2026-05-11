@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Jack Hinzo
 
 ![Self Portrait](/assets/Images/Jack_Profile.jpeg "Self Portrait") 

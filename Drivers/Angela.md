@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Angela Mendoza
 
 ![Unknown Credit](/assets/Images/Angela_Profile.JPG "Unknown Credit") 

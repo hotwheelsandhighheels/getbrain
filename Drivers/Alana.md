@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Alana Rodriguez
 
 ![Self Portrait](/assets/Images/Alana_Profile.jpeg "Self Portrait") 

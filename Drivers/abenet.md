@@ -1,3 +1,8 @@
+---
+layout: post
+title: a.benét
+---
+
 # a.benét
 
 ![Self Portrait](/assets/Images/A-benet_Profile.JPG.png "Self Portrait") 

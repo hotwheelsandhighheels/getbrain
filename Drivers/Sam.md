@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Sam Yaziji
 
 ![Unknown Credit](/assets/Images/Sam_Profile.JPG "Unknown Credit") 
