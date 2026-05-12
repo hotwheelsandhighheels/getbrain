@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Me AF 
+permalink: /meAF/
 ---
 ### Alejandra Hernández, 
 Editor  
