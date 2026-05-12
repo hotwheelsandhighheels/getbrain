@@ -19,6 +19,11 @@ body {
   p {font-family: Times;
     font-size: 14pt;
     color: white}
+  a {font-family: Times;
+    font-size: 14pt;
+    color: #ff00a3;
+    text-decoration: none;}
+  a:hover {text-decoration: underline;}
 }
 nav{
   background: black;
