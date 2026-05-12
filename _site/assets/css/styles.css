@@ -12,7 +12,10 @@ img {
 }
 
 body {
-    background-color: black;
+  background-color: black;
+  h1 {font-family: Times;
+    font-size: 24pt;
+    color: #ff00a3}
   h3 {font-family: Times;
     font-size: 20pt;
     color: white}
