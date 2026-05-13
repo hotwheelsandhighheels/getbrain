@@ -12,10 +12,10 @@ That said, if you fit the vibe _crash into me_.
 
 ### The Vibe
 
-- 21st century, in the symbiotic sense 
-- Millennial, or epoch-forming
-- Californian: Sunny, ocean waves, sandy beaches
-- Driving really fast on an empty highway with the windows down and the night sky ahead
+21st century, in the symbiotic sense 
+Millennial, or epoch-forming
+Californian: Sunny, ocean waves, sandy beaches
+Driving really fast on an empty highway with the windows down and the night sky ahead
 
 ### Alejandra Hernández, 
 Editor  
@@ -27,3 +27,5 @@ Alejandra is from San Diego and has no aspirations to leave; San Diego is too be
 She considers her cousins her best friends. Nothing matters without them. Without them there is no love, no poetry.
 
 Full list of publications and performances [here](/Me%20AF/enginecheck.html)
+
+Contact: alejandra@hotwheelsandhighheels.com
