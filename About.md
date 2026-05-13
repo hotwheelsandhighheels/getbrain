@@ -6,7 +6,7 @@ permalink: /About/
 # About
 
 ### Solicitations 
-Because I am one person and a poet and have financial anxiety, I will not be accepting unsolicited submissions. First and foremost, I'd like to be able to pay my writers even if all I can give is an andrew jackson. 
+Because I am one person and a poet and have financial anxiety, I will not be accepting unsolicited submissions. Most importantly, I'd like to be able to pay my writers even if all I can give is an andrew jackson. 
 
 That said, if you fit the vibe _crash into me_. 
 
