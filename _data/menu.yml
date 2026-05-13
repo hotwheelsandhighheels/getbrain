@@ -3,8 +3,8 @@
 - title: Home
   link: /
   show_on_mobile: true
-- title: Me AF
-  link: /meAF/
+- title: About
+  link: /About/
   show_on_mobile: true
 - title: Drivers
   link: /Drivers/
