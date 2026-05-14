@@ -5,7 +5,7 @@ permalink: /About/
 ---
 # About
 
-### The Wheel: Solicitation & Submissions 
+### The Wheel: Solicitations & Submissions 
 Because I am one person and a poet and am committed to paying my writers, I will mainly be reaching out instead of expecting submissions.
 
 That said, if you fit the vibe _crash into me_. 
