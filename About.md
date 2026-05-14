@@ -26,6 +26,6 @@ Alejandra is from San Diego and has no aspirations to leave; San Diego is too be
 
 She considers her cousins her best friends. Nothing matters without them. Without them there is no love, no poetry.
 
-Full list of publications and performances [here](/Me%20AF/enginecheck.html)
+Full list of publications and performances [here](/About/enginecheck.md)
 
 Contact: alejandra@hotwheelsandhighheels.com
