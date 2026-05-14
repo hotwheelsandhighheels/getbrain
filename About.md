@@ -5,8 +5,8 @@ permalink: /About/
 ---
 # About
 
-### Solicitations 
-Because I am one person and a poet and have financial anxiety, I will not be accepting unsolicited submissions. Most importantly, I'd like to be able to pay my writers even if all I can give is an andrew jackson. 
+### The Wheel: Solicitation & Submissions 
+Because I am one person and a poet and am committed to paying my writers, I will mainly be reaching out instead of expecting submissions.
 
 That said, if you fit the vibe _crash into me_. 
 
