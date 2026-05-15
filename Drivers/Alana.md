@@ -136,7 +136,7 @@ Alana
 
 # a poem by Alana Rodriguez
 
-For that swirling pile of trash
+## For that swirling pile of trash
 
 on Third & Palomar,   
 in the corner  

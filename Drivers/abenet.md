@@ -158,7 +158,7 @@ San Diego of the future, my hope is that you still hold space for community, tha
 
 # a poem by a. benét 
 
-**Somewhere in the Bay, a Girl Dreams of the Daygo**
+## **Somewhere in the Bay, a Girl Dreams of the Daygo**
 
 If change be god, August be holy. Our  
 skin, darkened by July, settles into  
