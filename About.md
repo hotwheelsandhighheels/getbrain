@@ -12,7 +12,8 @@ That said, if you fit the vibe _crash into me_.
 
 ## The Vibe
 21st century, in the symbiotic sense   
-Millennial, or epoch-forming  
+Millennial, as in epoch-forming 
+Archival, in the form of parallel truths
 Californian: Sunny, ocean waves, sandy beaches  
 Driving really fast on an empty highway with the windows down and the night sky ahead
 <br>
