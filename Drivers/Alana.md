@@ -134,9 +134,9 @@ Love,
 Alana
 
 
-# a poem by Alana Rodriguez
+# a poem by Alana Rodriguez {#alanapoem}
 
-## For that swirling pile of trash
+## For that swirling pile of trash 
 
 on Third & Palomar,   
 in the corner  

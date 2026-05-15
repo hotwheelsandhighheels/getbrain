@@ -156,7 +156,7 @@ To the letter of my childhood San Diego, I say thank you. I wouldn’t be who I 
 San Diego of the future, my hope is that you still hold space for community, that you don’t close yourself off. I want third spaces and gardens. I want more BIPOC owned businesses, small and thriving. I want children playing hopscotch at MLK park, water balloons in the summer. I hope your beaches and taco shop are still the best in California. I hope your residents are still stereotyped as chill, as calm as the pacific.  
 
 
-# a poem by a. benét 
+# a poem by a. benét
 
 ## **Somewhere in the Bay, a Girl Dreams of the Daygo**
 

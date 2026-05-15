@@ -16,8 +16,8 @@ Millennial, or epoch-forming
 Californian: Sunny, ocean waves, sandy beaches  
 Driving really fast on an empty highway with the windows down and the night sky ahead
 
-## Editor, 
-Alejandra Hernández  
+# Alejandra Hernández
+## Editor,   
 
 _Woman first, mother second_ has been the driving force behind many of Alejandra’s decisions over the past sixteen years, including the decision to answer an elusive call through poetry.
 
