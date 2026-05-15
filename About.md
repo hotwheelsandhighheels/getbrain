@@ -18,7 +18,6 @@ Driving really fast on an empty highway with the windows down and the night sky 
 <br>
 <br>
 <br>
-<br>
 
 # Alejandra Hernández
 ## Editor,   

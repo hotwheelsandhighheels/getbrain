@@ -134,7 +134,7 @@ Love,
 Alana
 
 
-# a poem by Alana Rodriguez {#alanapoem}
+# a poem by Alana Rodriguez
 
 ## For that swirling pile of trash 
 
