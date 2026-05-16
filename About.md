@@ -13,7 +13,7 @@ That said, if you fit the vibe _crash into me_.
 ## The Vibe
 21st century, in the symbiotic sense   
 Millennial, as in epoch-forming 
-Archival, in the form of parallel truths
+Archival, in the form of parallel truths  
 Californian: Sunny, ocean waves, sandy beaches  
 Driving really fast on an empty highway with the windows down and the night sky ahead
 <br>
@@ -31,4 +31,4 @@ She considers her cousins her best friends. Nothing matters without them. Withou
 
 Full list of publications and performances [here](/About/enginecheck.md)
 
-Contact: alejandra@hotwheelsandhighheels.com
+[Email contact](mailto:alejandra@hotwheelsandhighheels.com)
