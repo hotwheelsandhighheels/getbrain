@@ -5,15 +5,15 @@ permalink: /About/
 ---
 # About
 
-## The Wheel: Solicitations & Submissions 
-Because I am one person and a poet and am committed to paying my writers, I will mainly be reaching out instead of expecting submissions.
+## The Wheel 
+Interviews will be solicited  
 
-That said, if you fit the vibe _crash into me_. 
+but if you fit the vibe, _crash into me_ (email below) 
 
-## The Vibe
-21st century, in the symbiotic sense   
+## The Vibe  
 Millennial, as in epoch-forming  
-Archival, in the form of parallel truths  
+21st century, in the symbiotic sense  
+Archival, in the form of parallel truths   
 Californian: Sunny, ocean waves, sandy beaches  
 Driving really fast on an empty highway with the windows down and the night sky ahead
 <br>
@@ -21,14 +21,14 @@ Driving really fast on an empty highway with the windows down and the night sky 
 <br>
 
 # Alejandra Hernández
-## Editor,   
+## Editor's Note,   
 
-_Woman first, mother second_ has been the driving force behind many of Alejandra’s decisions over the past sixteen years, including the decision to answer an elusive call through poetry.
+_Woman first, mother second_ has been the driving force behind many of my decisions over the past sixteen years, including the decision to answer an elusive call through poetry.
 
-Alejandra is from San Diego and has no aspirations to leave; San Diego is too beautiful. 
+I am from San Diego and have no aspirations to leave; San Diego is too beautiful. 
 
-She considers her cousins her best friends. Nothing matters without them. Without them there is no love, no poetry.
+My cousins are my best friends. Nothing matters without them. Without them there is no love, no poetry. 
 
-Full list of publications and performances [here](/About/enginecheck.md)
+[Publications & Performances](/About/enginecheck.md)
 
 [Email](mailto:alejandra@hotwheelsandhighheels.com)
