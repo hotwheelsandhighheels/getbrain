@@ -22,7 +22,7 @@ IMIN Program, Morse High School – San Diego, CA
 Publications Editor, '24-'25  
 Poetry International Online
 
-Report Writer, '23
+Report Writer, '23  
 The SAGE Project – San Diego, CA  
 
 Submissions Reader, '22-'23  
@@ -37,7 +37,7 @@ MFA Program, San Diego State University
 Editor & Founder 
 Hot Wheels & High Heels – San Diego, CA
 
-Poetry Club Coordinator 
+Founder, Coordinator  
 Poetry Club at Morse High School – San Diego, CA
 
 ### Publications
