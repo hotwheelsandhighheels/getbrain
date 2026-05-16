@@ -34,7 +34,7 @@ MFA Program, San Diego State University
 
 ### Execution
 
-Editor & Founder 
+Editor & Founder  
 Hot Wheels & High Heels – San Diego, CA
 
 Founder, Coordinator  
