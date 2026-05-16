@@ -163,7 +163,7 @@ broken chicken bones
 pieces of neighbors, dead   
 bits of skin,  
 like the ones I rip from   
-my fingers, peel
+my fingers, peel  
 until thickening, then   
 miss when they bleed—  
 that hurricane of human   
