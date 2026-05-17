@@ -6,8 +6,10 @@ permalink: /About/
 # About
 
 ## The Wheel 
-Interviews will be solicited  
+A toddler plays with toy cars in grandma's closet  
+using shoes with heels as inclines  
 
+Interviews will be solicited  
 but if you fit the vibe, _crash into me_
 
 ## The Vibe  
@@ -24,7 +26,6 @@ HW&Hh accepts A.I. generated content with **discretion** and artist statement. <
 HW&Hh pays $20/interview. <br>
 
 _Unsolicited content will be considered for publication but not given priority_. <br>
-<br>
 <br>
 <br>
 
