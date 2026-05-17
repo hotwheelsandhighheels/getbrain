@@ -4,15 +4,16 @@ title: Engine Check Light
 ---
 ### Case
 
-Alejandra Hernández is a queer Mexican-American poet from San Diego, California with works most recently published in _Raleigh Review_ and _Jet Fuel Review_
+Ale 💕 is a queer Mexican-American poet from San Diego, California with work most recently published in _Raleigh Review_. 
+
 
 ### Study
 
 Master of Fine Arts in Poetry  
-San Diego State University 
+San Diego State University '26  
 
 Bachelor of Arts in Creative Writing (Non-Fiction Emphasis)  
-University of California, Riverside 
+University of California, Riverside '18  
 
 ### Practice
 
@@ -42,7 +43,7 @@ Poetry Club at Morse High School – San Diego, CA
 
 ### Publications
 
-"There's gold on the other side of this mountaint, we just have to cross this bridge first," _Raleigh Review_
+"There's gold on the other side of this mountain, we just have to cross this bridge first," _Raleigh Review_
 
 “The day I realized we were gods —,” _Jet Fuel Review_
 
